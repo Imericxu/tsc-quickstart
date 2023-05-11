@@ -1,6 +1,7 @@
 {
   "name": "package-name-here",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "scripts": {
     "start": "node dist/index.js",
